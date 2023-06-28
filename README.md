@@ -113,7 +113,8 @@ Sub MultipleYearStockData():
             
         
         Worksheets(WorksheetName).Columns("A:Z").AutoFit
-            
-    Next ws
         
 End Sub
+
+Note: Code source -(https://github.com/DataTell/VBA-Challenge/blob/master/VBAStocks/VBAStocksScript.bas)https://github.com/DataTell/VBA-Challenge/blob/master/VBAStocks/VBAStocksScript.bas            
+   
